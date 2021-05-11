@@ -1,0 +1,15 @@
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\Models.dll
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\Out_Source\BusinessLicense\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
